@@ -1,0 +1,23 @@
+{
+  "name": "dd",
+  "description": "mobile for dd",
+  "main": "index.html",
+  "keywords": [
+    "mobile",
+    "dd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "Swiper": "swiper#^3.3.1"
+  }
+}
